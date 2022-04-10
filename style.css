@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    color: white;
+}
+
+header h1 {
+    padding-top: 70px;
+}
+
+header p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header a {
+    color: white;
+    font-weight: bold;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
