@@ -16,7 +16,7 @@ header h1 {
     padding-top: 70px;
 }
 
-header p {
+header > p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
